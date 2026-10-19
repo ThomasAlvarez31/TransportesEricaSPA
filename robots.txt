@@ -1,0 +1,6 @@
+# robots.txt — Áridos y Transportes
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://www.tudominio.com/sitemap.xml

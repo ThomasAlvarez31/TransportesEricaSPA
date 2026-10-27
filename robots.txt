@@ -3,4 +3,4 @@ User-agent: *
 Allow: /
 
 # Sitemap
-Sitemap: https://www.tudominio.com/sitemap.xml
+Sitemap: https://www.transporteyaridoserica.cl/sitemap.xml
